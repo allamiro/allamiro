@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Tamir Suliman, I'm an Electrical Engineering graduate of Sudan University in (Sudan) with Masters Degree from Johns Hopkins University (USA). 
+My name is Tamir Suliman, I'm an Electrical Engineering graduate of Sudan University (Sudan) with Masters Degree from Johns Hopkins University (USA). 
 I'm currently pursuing my PhD in Computational Science and Informatics at George Mason University(USA).
 
 I have also a medium blog that I use to write about any thing that interests me you welcome to follow it.
